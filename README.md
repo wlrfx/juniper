@@ -10,4 +10,9 @@ The artwork contained in this repo is attributed as follows:
   + [like_approved.kra](/emoji/like_approved.kra): [honchokomodo](https://github.com/honchokomodo)
   + [sip.kra](/emoji/sip.kra): [honchokomodo](https://github.com/honchokomodo)
   + [wave.kra](/emoji/wave.kra): [honchokomodo](https://github.com/honchokomodo)
+  + [juniChad_Side.kra](/emoji/juniChad_Side.kra): [pkdesu](https://github.com/pkdesuwu)
+  + [juniChicken.kra](/emoji/juniChicken.kra): [pkdesu](https://github.com/pkdesuwu)
+  + [juniGigachad.kra](/emoji/juniGigachad.kra): [pkdesu](https://github.com/pkdesuwu)
+  + [juniHeart.kra](/emoji/juniHeart.kra): [pkdesu](https://github.com/pkdesuwu)
+  + [juniRock.kra](/emoji/juniRock.kra): [pkdesu](https://github.com/pkdesuwu)
 
