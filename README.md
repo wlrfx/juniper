@@ -15,4 +15,6 @@ The artwork contained in this repo is attributed as follows:
   + [juniGigachad.kra](/emoji/juniGigachad.kra): [pkdesu](https://github.com/pkdesuwu)
   + [juniHeart.kra](/emoji/juniHeart.kra): [pkdesu](https://github.com/pkdesuwu)
   + [juniRock.kra](/emoji/juniRock.kra): [pkdesu](https://github.com/pkdesuwu)
+  + [shook.kra](/emoji/shook.kra): [honchokomodo](https://github.com/honchokomodo)
+  + [thinking.kra](/emoji/thinking.kra): [honchokomodo](https://github.com/honchokomodo)
 
