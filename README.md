@@ -6,6 +6,7 @@ The artwork contained in this repo is attributed as follows:
 + wallpaper
   + [legacywallpaper.ora](/wallpaper/legacywallpaper.ora): [honchokomodo](https://github.com/honchokomodo) & [pkdesu](https://github.com/pkdesuwu)
   + [wallpaper.ora](/wallpaper/wallpaper.ora): [honchokomodo](https://github.com/honchokomodo), [pkdesu](https://github.com/pkdesuwu), & [kritter](https://github.com/snowykritter)
+  + [ski](20231229_ski_4096x4096.png): [honchokomodo](https://github.com/honchokomodo)
 + emoji
   + [like_approved.kra](/emoji/like_approved.kra): [honchokomodo](https://github.com/honchokomodo)
   + [sip.kra](/emoji/sip.kra): [honchokomodo](https://github.com/honchokomodo)
