@@ -19,4 +19,4 @@ The artwork contained in this repo is attributed as follows:
   + [shook.kra](/emoji/shook.kra): [honchokomodo](https://github.com/honchokomodo)
   + [thinking.kra](/emoji/thinking.kra): [honchokomodo](https://github.com/honchokomodo)
   + [sleep.kra](/emoji/sleep.kra): [honchokomodo](https://github.com/honchokomodo)
-
+  + [kek.kra](/emoji/kek.kra): [honchokomodo](https://github.com/honchokomodo)
