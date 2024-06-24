@@ -6,9 +6,9 @@ The artwork contained in this repo is attributed as follows:
 + wallpaper
   + [legacywallpaper.ora](/wallpaper/legacywallpaper.ora): [honchokomodo](https://github.com/honchokomodo) & [pkdesu](https://github.com/pkdesuwu)
   + [wallpaper.ora](/wallpaper/wallpaper.ora): [honchokomodo](https://github.com/honchokomodo), [pkdesu](https://github.com/pkdesuwu), & [kritter](https://github.com/snowykritter)
-  + [ski](20231229_ski_4096x4096.png): [honchokomodo](https://github.com/honchokomodo)
-  + [skyline](20240413_skyline_4096x4096.png): [honchokomodo](https://github.com/honchokomodo)
-  + [bar](20240622_bar_3840x2160.png): [honchokomodo](https://github.com/honchokomodo)
+  + [ski](/wallpaper/20231229_ski_4096x4096.png): [honchokomodo](https://github.com/honchokomodo)
+  + [skyline](/wallpaper/20240413_skyline_4096x4096.png): [honchokomodo](https://github.com/honchokomodo)
+  + [bar](/wallpaper/20240622_bar_3840x2160.png): [honchokomodo](https://github.com/honchokomodo)
 + emoji
   + [like_approved.kra](/emoji/like_approved.kra): [honchokomodo](https://github.com/honchokomodo)
   + [sip.kra](/emoji/sip.kra): [honchokomodo](https://github.com/honchokomodo)
